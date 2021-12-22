@@ -1,6 +1,6 @@
 ### Welcome to my profile. 👋
 
-- 🔭 I’m currently working with NextJS, TypeScript and NodeJs
+- 🔭 I’m currently Software Engineer at Divisio Tech
 - 📫 Contact me: pedrobars7a@gmail.com
 - 😄 Pronouns: He/Him
 
