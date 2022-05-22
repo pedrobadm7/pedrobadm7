@@ -1,6 +1,6 @@
 ### Welcome to my profile. 👋
 
-- 🔭 I’m currently Software Engineer at Divisio Tech and Bliss Applications
+- 🔭 I’m currently Software Engineer at Divisio Tech
 - 📫 Contact me: pedrobars7a@gmail.com
 - 😄 Pronouns: He/Him
 
