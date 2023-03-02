@@ -1,6 +1,6 @@
 ### Welcome to my profile. 👋
 
-- 🔭 I’m currently Software Engineer
+- 🔭 I’m currently Software Engineer at Bliss Applications
 - 📫 Contact me: pedrobars7a@gmail.com
 - 😄 Pronouns: He/Him
 
