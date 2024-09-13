@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently Software Engineer at Bliss Applications
 - 📫 Contact me: pedrobars7a@gmail.com
-- 💼 My Portfolio: pedrobarrosdev.com.br
+- 💼 My Portfolio: [pedrobarrosdev.com.br](https://pedrobarrosdev.com.br/)
 
 
   <div style="display: inline_block"><br>
