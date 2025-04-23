@@ -1,6 +1,6 @@
 ### Welcome to my profile. 👋
 
-- 🔭 I’m currently Software Engineer at Bliss Applications
+- 🔭 I’m currently Software Engineer at Floki Inu
 - 📫 Contact me: pedrobars7a@gmail.com
 - 💼 My Portfolio: [pedrobarrosdev.com.br](https://pedrobarrosdev.com.br/)
 
